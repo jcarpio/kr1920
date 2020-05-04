@@ -34,4 +34,14 @@ Two deliveries will be made:
 
 ### Bibliography
 
-[1] What is Knowledge Representation in AI? Techniques You Need To Know
+[1] What is Knowledge Representation in AI? Techniques You Need To Know 
+https://www.edureka.co/blog/knowledge-representation-in-ai/
+
+[2] Knowledge Representation in Artificial intelligence  
+https://www.slideshare.net/YasirAhmedKhan/5-knowledgerepresentation-10-sldes
+
+[3] Markus Triska, https://www.metalevel.at/
+
+[3] P-99: Ninety-Nine Prolog Problems
+https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
+
