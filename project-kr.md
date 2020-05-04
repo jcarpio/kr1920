@@ -18,7 +18,7 @@ the originality of the work,
 clarity of explanations, examples used and quality of wording and additional elements used
 (graphics, videos, etc.) 
 
-Alternatively, you can agree with the teacher on a different job than the revision of the techniques for representing knowledge in artificial intelligence.
+Alternatively, you can agree with the teacher on a different job than the revision of the techniques for Knowledge Representation in artificial intelligence.
 
 ### A practical part in which you must choose a project to carry out in Prolog. You can find some ideas in
 Markus Triska's website [3] or in P-99: Ninety-Nine Prolog Problems [4] for example. Possible exercises are not limited
