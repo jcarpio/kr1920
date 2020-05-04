@@ -2,8 +2,7 @@
 # Course 2019-2020
 ### Document version: 1.0.0
 
-** Important: this document may be modified during the course of the semester. Please check the latest version of it in this repository ** https://github.com/jcarpio/rv1920
-
+** Important: this document may be modified during the course of the semester. Please check the latest version of it in this repository ** https://github.com/jcarpio/kr1920/edit/master/project-kr.md
 
 ## Project description:
 
