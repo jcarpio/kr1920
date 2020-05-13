@@ -1,4 +1,12 @@
 # Next up are generic trees
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
  
 We start with a widthpath, this is:
 /*
