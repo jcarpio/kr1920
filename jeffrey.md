@@ -1,6 +1,6 @@
 # Next up are generic trees
 
-```javascript
+```prolog
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
