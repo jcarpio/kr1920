@@ -4,6 +4,11 @@
 
 ** Important: this document may be modified during the course of the semester. Please check the latest version of it in this repository ** https://github.com/jcarpio/kr1920/edit/master/project-kr.md
 
+
+
+## Finished projects
+
+
 ## Project description:
 
 The project will consist of two parts:
