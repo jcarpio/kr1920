@@ -8,6 +8,7 @@
 
 ## Finished projects
 ### https://github.com/michaelkleinschuster422/kr1920
+### https://github.com/CristianColavito/kr1920
 
 
 ## Project description:
