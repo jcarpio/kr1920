@@ -10,6 +10,8 @@
 ### https://github.com/michaelkleinschuster422/kr1920
 ### https://github.com/CristianColavito/kr1920
 ### https://github.com/kamilponikwia/KR
+### https://github.com/JeffreyBollen/kr1920
+### https://github.com/agnespie/WATERJUG
 
 
 ## Project description:
